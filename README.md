@@ -8,7 +8,7 @@ This folder contains code and data for setup and post-processing of REMM simulat
 
 # SWATplus
 
-This folder contains code and data for setup, simulation, and post-processing of SWATplus simulations. SWAT+ input files are too large to provide here.
+This folder contains code and data for setup, simulation, and post-processing of SWATplus simulations. Parameters_2.csv includes the names and shorthand for the studied input parameters. Simulation_Correlation.R sets up the model inputs and runs the simulation. Analysis.R performs the different sensitivity analyses. Plots.R recreates plots seen in the manuscript and supplementary material. SWAT+ input files are too large to provide here.
 
 # Sensitivity Analysis
 
