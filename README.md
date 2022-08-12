@@ -4,7 +4,7 @@ This repository contains code and data needed to reproduce the analysis in Buhr 
 
 # REMM
 
-This folder contains code and data for setup and post-processing of REMM simulations. "VariableRanges.csv" specifies the statistical distribution used for each input parameter that we adjusted. "Value_Generation.R" creates the input parameters based on distributions and correlations. "Write_Inputs.R" generates input files from these values and creates the batch file to run the simulations from the command line. "Analysis.R" performs the different sensitivity analyses. "Plots.R" recreates plots seen in the manuscript and supplementary material. REMM inputs and application may be available from https://www.ars.usda.gov/southeast-area/tifton-ga/southeast-watershed-research/research/models/remm-model/.
+This folder contains code and data for setup and post-processing of REMM simulations. "VariableRanges.csv" specifies the statistical distribution used for each input parameter that we adjusted. "Value_Generation.R" creates the input parameters based on distributions and correlations. "Write_Inputs.R" generates input files from these values and creates the batch file to run the simulations from the command line. "Analysis.R" performs the different sensitivity analyses. "Plots.R" recreates plots seen in the manuscript and supplementary material. REMM inputs and application may be available upon request from https://www.ars.usda.gov/southeast-area/tifton-ga/southeast-watershed-research/research/models/remm-model/.
 
 # SWATplus
 
