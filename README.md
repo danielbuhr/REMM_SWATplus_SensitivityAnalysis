@@ -4,11 +4,11 @@ This repository contains code and data needed to reproduce the analysis in Buhr 
 
 # REMM
 
-This folder contains files for setup and post-processing of REMM simulations, which can be run from the command window. 
+This folder contains code and data for setup and post-processing of REMM simulations, which can be run from the command window. 
 
 # SWATplus
 
-This folder contains files for setup, simulation, and post-processing of SWATplus simulations.
+This folder contains code and data for setup, simulation, and post-processing of SWATplus simulations.
 
 # Sensitivity Analysis
 
