@@ -8,7 +8,7 @@ This folder contains code and data for setup and post-processing of REMM simulat
 
 # SWATplus
 
-This folder contains code and data for setup, simulation, and post-processing of SWATplus simulations.
+This folder contains code and data for setup, simulation, and post-processing of SWATplus simulations. SWAT+ input files are too large to provide here.
 
 # Sensitivity Analysis
 
